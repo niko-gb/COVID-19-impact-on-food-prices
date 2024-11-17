@@ -1,7 +1,5 @@
 # The purpose of this project is to analyse the impact of the COVID-19 pandemic on food prices in developing countries, focusing on identifying economic and geographical patterns in price changes and their relationship to socioeconomic factors like the Human Development Index (HDI) and Gross National Income (GNI) per capita.
 
-# This project emphasizes the vulnerability of developing economies to global crises and highlights the necessity for robust data to better understand and address these disparities.
-
 Main Features:
 
 Data Collection and Cleaning:
@@ -34,3 +32,5 @@ Insights:
 Geographical Mapping:
 
 - The impact of price changes was visualized using a choropleth map for easy identification of regional trends.
+
+This project emphasizes the vulnerability of developing economies to global crises and highlights the necessity for robust data to better understand and address these disparities.
