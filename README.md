@@ -1,6 +1,4 @@
-# The COVID-19 pandemic undisputedly significantly impacted all aspects of human life. Socially, mentally, physically, economically. Economically speaking, due to the national lockdowns that the governments put in place to stop the spread of the pandemic, one of the sectors that was heavily affected was the food retail supply chain. Due to the restriction measures, international travel, global logistics, supplier production, and the overall lack of staff in food production and distribution resulted in shortages at retailers, increasing prices for basic food commodities.
-
-The project's purpose is to analyse the impact of the COVID-19 pandemic on food prices in developing countries, focusing on identifying economic and geographical patterns in price changes and their relationship to socioeconomic factors like the Human Development Index (HDI) and Gross National Income (GNI) per capita.
+# The purpose of this project is to analyse the impact of the COVID-19 pandemic on food prices in developing countries, focusing on identifying economic and geographical patterns in price changes and their relationship to socioeconomic factors like the Human Development Index (HDI) and Gross National Income (GNI) per capita.
 
 This project emphasizes the vulnerability of developing economies to global crises and highlights the necessity for robust data to better understand and address these disparities.
 
